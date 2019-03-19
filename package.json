@@ -1,0 +1,28 @@
+{
+  "name": "athena-ai",
+  "version": "0.1.7",
+  "description": "Responsive Voice client using js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/spyhoodle/athena-ai",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "spyhoodle, pineapplefan123yt, 9hax",
+  "license": "SEE LICENSE",
+  "devDependencies": {
+    "electron": "^4.1.0"
+  },
+  "dependencies": {
+    "electron-packager": "^13.1.1",
+    "express": "^4.16.4",
+    "swearing-is-bad": "^0.2.2",
+    "weather-js": "^2.0.0"
+  }
+}
