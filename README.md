@@ -1,24 +1,19 @@
-**Setup**
+New super simple Athena setup
 
-1.) Download INSTALLERS.zip from https://drive.google.com/open?id=1J5Y9XZvgsVt0cMGOfieKJ2MnQO3QeCNs
-Or Download INSTALLERS.rar from https://drive.google.com/open?id=1IVel_pWioRkdRgHWuvlAGaCjmoudTa__
+1 - Install Node at https://nodejs.org/
 
-2.) Download the INSTALLERS.zip/INSTALLERS.rar file (We recommend the .zip file)
+2 - Download a file below (AthenaPTB_2.zip), zip is recommended
 
-3.) Extract the file (If you downloaded the .rar file, use winRAR to extract it https://www.win-rar.com/start.html?&L=0)
+3 - Extract the files
 
-4.) Download Node.js https://nodejs.org/en/
+4 - Run your computer's setup file (in the RUN folder) E.g. If you are using windows run WINDOWS-SETUP.bat
 
-5.) Go into the INSTALLERS folder.
+5 - Open the file with your computer's OS as the name (This file is inside the RUN folder). E.g. If you are using windows run WINDOWS.bat)
+If you get a discord-rpc error, just open the Run file again. This bug is rare now.
 
-6.) Extract all items into the INSTALLERS folder (Again, use winRAR for .rar files - if you decide to use the .rar files)
-
-7.) Take the folder (lowercase i - images) out of the upper case I - Images folder and into the INSTALLERS folder.
-
-8.) Take all of the files out of the Files folder into the INSTALLERS folder.
-
-9.) Go into the Run files folder.
-
-10.) Go into the RUN folder.
-
-11.) Run the file that your operating system is. E.g. WINDOWS.bat is for windows users.
+Help & Fixes
+If you get a message saying Windows Defender blocked this file, please click on more info then click run anyway.
+If you cant type commands in, make sure you ran the WINDOWS-SETUP.bat inside the extracted folder, not in the .zip file.
+(If this still isn't working and you don't have a folder named node_modules then talk to us in #help or DM me)
+Make sure you followed all the steps IN THE RIGHT ORDER.
+We are aware that upon typing your first command you will get lag.
