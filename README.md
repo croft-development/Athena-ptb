@@ -2,7 +2,7 @@ New super simple Athena setup
 
 1 - Install Node at https://nodejs.org/
 
-2 - Download the zip file on the repository (here).
+2 - Click Clone or Download and then click download zip
 
 3 - Extract the files
 
