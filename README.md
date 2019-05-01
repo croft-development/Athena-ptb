@@ -1,16 +1,16 @@
-New super simple Athena setup
+**New super simple Athena setup**
 
-1 - Install Node at https://nodejs.org/
+1 - Install this at https://nodejs.org/ (click download latest)
 
-2 - Click Clone or Download and then click download zip
+2 - Click on the file named AthenaPTB (2).zip and then click the white `download` button (it is near the top right)
 
 3 - Extract the files
 
-4 - Run your computer's setup file (in the RUN folder) E.g. If you are using windows run WINDOWS-SETUP.bat
+4 - Run the file with your computer's OS as the name then `-SETUP` `e.g WINDOWS-SETUP` (in the RUN folder) E.g. If you are using windows run `WINDOWS-SETUP.bat`
 
-5 - Open the file with your computer's OS as the name (This file is inside the RUN folder). E.g. If you are using windows run WINDOWS.bat)
+5 - Run (double click) the file with your computer's OS as the name (This file is inside the RUN folder). E.g. If you are using windows       run WINDOWS.bat)
 
-Help & Fixes
+**Help & Fixes**
 
 If you get a discord-rpc error, just open the Run file again. This bug is rare now.
 If you get a message saying Windows Defender blocked this file, please click on `more info` then click `run anyway`.
